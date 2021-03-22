@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+main{
+    width: 100vw;
+    height: 100vh;
+    background: dodgerblue;
+    text-align: center;
+    padding:50px;
+}
+
+.box1{
+    width: 500px;
+    height:200px;
+    margin: 50px auto;
+    padding:50px 30px;
+    background-color: rgb(183, 152, 12);
+    color: #9f3370;
+    border-radius: 10px;
+    border: 1px solid orange;
+}
+
+.box2{
+    width: 350px;
+    height: 200px;
+    margin: 50px auto;
+    padding: 40px 10px;
+    background-color: rgb(19, 187, 100);
+    color: #9f231d;
+    border-radius: 10px;
+    border: 1px solid #cc1473;
+}
